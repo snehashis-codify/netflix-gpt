@@ -6,6 +6,9 @@ module.exports = {
       backgroundColor: {
         buttonBackground: "#E60000",
       },
+      textColor: {
+        errorText: "#E60000",
+      },
     },
   },
   plugins: [],
