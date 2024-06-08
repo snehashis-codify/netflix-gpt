@@ -20,9 +20,9 @@ function Auth() {
       <div className="bg-black h-screen w-2/4 flex flex-col items-center m-auto justify-center">
         <div>
           <img
-            src="https://pngimg.com/uploads/netflix/netflix_PNG10.png"
+            src={require("../assets/netflix_short_logo.png")}
             className="h-[100px] w-[100px]"
-            alt=""
+            alt="netflix_short_logo"
           />
         </div>
 
